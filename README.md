@@ -1,18 +1,15 @@
 # TECHNICAL TEST HOTELS APP
+I do it in React using for first time React Bootstrap. The app connects to the local server and:
 
-Given the following response in our endpoint (http://localhost:8082/hotels.json):
-
-We want to do an application that:
 - Render the hotels provided by the api
 - Order the hotels by rating score
 - Provide a filter by brand
 
-You can use any javascript technology that you feel comfortable with it. (Vanilla JS, jQuery, Vue, React, ...)
+**Instructions to run the server:**
+- npm install
+- npm start
 
-**Plus points:**
-- Usage of TDD
-- Usage of any frontend framework (Vue, React, ...)
-
-**Instructions:**
+**Instruccions to open the app**
+- cd app
 - npm install
 - npm start
